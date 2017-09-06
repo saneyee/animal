@@ -1,0 +1,27 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column1 {
+  background-color: lightyellow;
+}
+
+.column2 {
+  background-color: skyblue;
+}
+
+.column3 {
+  background-color: pink;
+}
+
+.column4 {
+  background-color: green;
+}
+
+.column1 h2 {
+  color: green;
+}
+p{
+  color: red;
+}
